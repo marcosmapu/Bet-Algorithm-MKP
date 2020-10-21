@@ -6,7 +6,7 @@ This particular code was developed and implemented by me in 2018 to solve the MK
 # MKP
 The Multi-dimensional Knapsack problem is a generalisation of the traditional knapsack problem where your aim is to fill it in the best possible way. Each item has a value and occupy a space in the n different dimensions of the knapsack. The number of items is limited to these dimensions constraints and the ultimate goal is to get the most value out of the knapsack.
 
-# Bibliography
+# References
 
 [1] DEMASI, P. HEURÍSTICAS BASEADAS EM APOSTAS PARA PROBLEMAS DE OTIMIZAÇÃO COMBINATÓRIA
 
